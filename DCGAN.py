@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 26 15:17:32 2021
-
-@author: hp-pc
-"""
 import numpy as np
 import keras as ks
 import keras.layers as ksl
